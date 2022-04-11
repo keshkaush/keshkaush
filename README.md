@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />,I'm Keshav Kaushik</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7EF47&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 <h5 align="center">
 A final year student pursuing Bachelors in Computer science studies with a specialization of mobile computing, from Chandigarh University. I am a Full Stack Developer, mobile developer, a Photographer and some one who likes to draw. 
 </h5>
