@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Keshav Kaushik</h1>
+         width="45" />,[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Keshav's+GitHub+Profile!)](https://git.io/typing-svg)</h1>
 <h5 align="center">
-A final year student pursuing Bachelors in Computer science studies with a specialization of mobile computing, from Chandigarh University. I am a Full Stack Developer, mobile developer, a Photographer and some one ho likes to draw. 
+A final year student pursuing Bachelors in Computer science studies with a specialization of mobile computing, from Chandigarh University. I am a Full Stack Developer, mobile developer, a Photographer and some one who likes to draw. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshkaush&label=Profile%20views&color=0e75b6&style=flat" alt="keshkaush" /> </p>
 <p>
