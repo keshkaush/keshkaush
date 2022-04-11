@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Ishika kesarwani</h1>
+         width="45" />, I'm Keshav Kaushik</h1>
 <h5 align="center">
 A final year student pursuing Bachelors in Computer science studies with a specialization of mobile computing, from Chandigarh University. I am a Full Stack Developer, mobile developer, a Photographer and some one ho likes to draw. 
 </h5>
