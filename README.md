@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Ishika kesarwani</h1>
+<h5 align="center">
+A final year student pursuing Bachelors in Computer science studies with a specialization of mobile computing, from Chandigarh University. I am a Full Stack Developer, mobile developer, a Photographer and some one ho likes to draw. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshkaush&label=Profile%20views&color=0e75b6&style=flat" alt="keshkaush" /> </p>
+<p>
+<a align= "center" href="https://github.com/keshkaush">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=keshkaush&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=keshkaush&count_private=true&theme=radical&show_icons=true" />
 
-<!--
-**keshkaush/keshkaush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/keshkaush_" target="blank"><img src="https://img.shields.io/twitter/follow/keshkaush_?logo=twitter&style=for-the-badge" alt="keshkaush_" /></a> </p>
 
-Here are some ideas to get you started:
+- 📫 How to reach me **me.keshavkaushik@gmail.com**
+<br><br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/keshkaush_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="keshkaush" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/keshkaush/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="keshav kaushik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/seksy.me/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/keshkaush/keshkaush/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
