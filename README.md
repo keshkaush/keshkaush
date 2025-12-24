@@ -5,7 +5,7 @@
          height="45"
          width="45" />,I'm Keshav Kaushik</h1>
 <h5 align="center">
-An ASE in Airbus, a Photographer and some one who likes to draw. 
+Software Engineer at Airbus, Improving My Craft as a Engineer and as a Person. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshkaush&label=Profile%20views&color=0e75b6&style=flat" alt="keshkaush" /> </p>
 <p>
@@ -25,7 +25,7 @@ An ASE in Airbus, a Photographer and some one who likes to draw.
 <p align="center">
 <a href="https://twitter.com/keshkaush_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="keshkaush" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/keshkaush/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="keshav kaushik" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/seksy.me/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+<a href="https://www.instagram.com/sleepin.being/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 <hr>
 <p align="center">
@@ -33,15 +33,15 @@ An ASE in Airbus, a Photographer and some one who likes to draw.
 </p>
 
 
-<h3 align="center">Languages/Libraries/Frameworks I Use:</h3>
+<h3 align="center">Core Infrastructure & Architect Stack:</h3>
 <p align="center"> 
- <a href="http://nodejs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="node.js" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://javascript.info/" target="_blank"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a>
+  <a href="https://prometheus.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.seekpng.com/png/full/945-9454419_nuff-said-show-me-the-code-flutter-bottom.png" alt="Flutter" width="40" height="40"/> </a>
-</p> 
+</p>
