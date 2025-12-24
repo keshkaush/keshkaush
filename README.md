@@ -11,7 +11,6 @@ Software Engineer at Airbus, Improving My Craft as a Engineer and as a Person.
 <p>
 <a align= "center" href="https://github.com/keshkaush">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=keshkaush&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=keshkaush&count_private=true&theme=radical&show_icons=true" />
 
