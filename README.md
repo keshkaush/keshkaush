@@ -49,8 +49,8 @@ I am a Software Engineer at Airbus SAS focused on building and maintaining resil
 
 ### Certs
 
-- `AWS Solutions Architect Associate` : Jan-2026
-- `HashiCorp Terraform Associate` : **Ongoing**
+- `AWS Solutions Architect Associate`: **Jan-2026**
+- `HashiCorp Terraform Associate`: **Ongoing**
 
 ---
 
