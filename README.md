@@ -1,73 +1,71 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=keshkaush&label=Profile%20Views&color=FF5722" alt="Profile Views" />
-</div>
+<div align="center">
+
+<h1>
+  Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="38" width="38" />, I'm Keshav
+</h1>
+
+**Cloud & Platform Engineer** at Airbus · Bengaluru, India
+
+Building resilient cloud infrastructure, developer platforms, and AI-assisted engineering tooling.
 
 <br />
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Focus-Cloud_Infrastructure-00f2fe?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Role-DevOps_Engineer-10b981?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Mindset-Systems_Thinking-8b5cf6?style=for-the-badge" />
-  <a href="https://drive.google.com/file/d/1WeE6_FS8XVZNgcC3fjA_NappZU0uZbZg/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-  </a>
-</div>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Keshav</h1>
-<h5 align="center">
-I am a Software Engineer at Airbus SAS focused on building and maintaining resilient cloud infrastructure. 
-  
----
-
-
-<div align="left">
-
-### Tech Skills
-
-| Domain | Proficiency | What it's About |
-| :---: | :---: | :--- |
-| **Networking** | <img src="https://img.shields.io/badge/Medium-F59E0B?style=flat&logoColor=white" alt="Medium"/> | VPC design &bull; DNS &bull; Subnetting &bull; Transit Gateways |
-| **Compute** | <img src="https://img.shields.io/badge/Deep-16A34A?style=flat&logoColor=white" alt="Deep"/> | EC2 strategy &bull; Serverless &bull; Docker |
-| **IaC** | <img src="https://img.shields.io/badge/High-3B82F6?style=flat&logoColor=white" alt="High"/> | Terraform module design &bull; State management |
-| **Linux / OS** | <img src="https://img.shields.io/badge/Deep-16A34A?style=flat&logoColor=white" alt="Deep"/> | System calls &bull; Performance tools &bull; Shell scripting |
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Focus-Cloud_%26_Platform_Engineering-00f2fe?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Also-AI_Tooling-8b5cf6?style=flat-square" alt="AI Tooling" />
+<img src="https://img.shields.io/badge/Mindset-Systems_Thinking-10b981?style=flat-square" alt="Mindset" />
+<a href="https://drive.google.com/file/d/1WeE6_FS8XVZNgcC3fjA_NappZU0uZbZg/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-Download-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+</a>
 
 </div>
-
-### Certs
-
-- `AWS Solutions Architect Associate`: **Jan-2026**
-- `HashiCorp Terraform Associate`: **Ongoing**
 
 ---
 
-<div align="center">
-  <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=keshkaush&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)">
-</div>
+## 🔭 What I Do
+
+- ☁️ **Cloud infrastructure:** AWS and GCP, provisioned with Terraform and run on Kubernetes (EKS, Cloud Run)
+- 🛠️ **Developer platforms:** remote developer environments, reusable CI/CD pipelines, and internal tooling for 100+ developers
+- 🤖 **AI engineering:** a governed multi-cloud gateway for Claude, Agent Skills, and MCP integrations
+- 🚨 **Reliability:** on-call and incident response, observability, and SLO/MTTR-driven operations across time zones
+
+---
+
+## 🧰 Tech Stack
+
+| Area | Tools |
+| :-- | :-- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **IaC & Delivery** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Containers** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI** | ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) |
+
+---
+
+## 🏅 Certifications
+
+- **AWS Certified Solutions Architect – Associate** (Jan 2026)
+- **HashiCorp Terraform Associate** (in progress)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github.com/keshkaush/keshkaush/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://streak-stats.demolab.com?user=keshkaush&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak stats" height="170" />
+  <br /><br />
+  <img src="https://github.com/keshkaush/keshkaush/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </div>
 
 ---
-  
-<p align="right">
-<a href="mailto:me.keshavkaushik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/keshkaush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/keshkaush_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://instagram.com/sleepin.being" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:me.keshavkaushik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/keshkaush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/keshkaush_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=keshkaush&label=Profile%20Views&color=FF5722&style=flat-square" alt="Profile views" />
 </div>
